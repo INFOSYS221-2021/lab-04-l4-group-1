@@ -1,3 +1,8 @@
-# Lab-04
+# Lab-04 Group 1
 
-Update this README to include your team name and team members. Don't forget to record all your answers to lab 04 here.
+## Names
+* Jack McGrath
+* Amous Lou
+* Olivia Joe-West
+
+## Activity
