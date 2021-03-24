@@ -2,10 +2,10 @@
 
 ## Names
 * Jack McGrath
-* Amous Lou
+* Amos Lou
 * Olivia Joe-West
 
-## Activity
+## Exercise 1
 1. string, integer, boolean
 2. board, dupeBoard, possibleMoves
 3. The board
