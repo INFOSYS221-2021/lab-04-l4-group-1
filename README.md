@@ -21,6 +21,7 @@ while move not in '1 2 3 4 5 6 7 8 9'.split() or not isSpaceFree(board, int(move
 8. The function ```isWinner```. It puts together all the possible winning combinations together and tests if there are three in a row
 9. This will not change the behaviour of the game as both statements will provide the same result. This is because the statemenet ```gameIsPlaying = False``` and break both end the while loop.
 10. It keeps the loop going infinitely. The way the game stops this infinite loops is by adding
-    ```if not playAgain():
+    ```
+    if not playAgain():
           break
     ```
