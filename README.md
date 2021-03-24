@@ -23,5 +23,5 @@ while move not in '1 2 3 4 5 6 7 8 9'.split() or not isSpaceFree(board, int(move
 10. It keeps the loop going infinitely. The way the game stops this infinite loops is by adding
     ```
     if not playAgain():
-          break
+        break
     ```
